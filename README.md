@@ -1,3 +1,3 @@
 # Bachelors_Thesis
 
-## Download the file, if you do not want your browser to crash.
+## Download the file, since viewing it via github could crash your browser :)
